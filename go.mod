@@ -36,7 +36,7 @@ require (
 	github.com/hashicorp/mdns v1.0.1 // indirect
 	github.com/hashicorp/serf v0.8.3 // indirect
 	github.com/hashicorp/vault v1.1.2
-	github.com/heetch/confita v0.5.1
+	github.com/pioh/confita v0.5.1
 	github.com/jonboulle/clockwork v0.1.0 // indirect
 	github.com/kisielk/errcheck v1.2.0 // indirect
 	github.com/kisielk/gotool v1.0.0 // indirect

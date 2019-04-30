@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/coreos/etcd/clientv3"
-	"github.com/heetch/confita/backend"
+	"github.com/pioh/confita/backend"
 	"github.com/stretchr/testify/require"
 )
 

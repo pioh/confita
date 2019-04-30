@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/heetch/confita/backend/file"
+	"github.com/pioh/confita/backend/file"
 	"github.com/stretchr/testify/require"
 )
 

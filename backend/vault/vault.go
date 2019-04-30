@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/hashicorp/vault/api"
-	"github.com/heetch/confita/backend"
+	"github.com/pioh/confita/backend"
 )
 
 // Backend loads keys from Vault
